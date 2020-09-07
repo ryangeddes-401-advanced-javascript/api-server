@@ -1,0 +1,19 @@
+{
+  "categories": [],
+  "products": [
+    {
+      "id": 1,
+      "category": "electronics",
+      "name": "ipod",
+      "display_name": "electronics_69",
+      "description": "this is an ipod"
+    },
+    {
+      "id": 2,
+      "category": "electronics",
+      "name": "zune",
+      "display_name": "electronics_69",
+      "description": "this is a a zune"
+    }
+  ]
+}
