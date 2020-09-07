@@ -1,18 +1,31 @@
+
+
 {
-  "categories": [],
-  "products": [
+  "categories": [
     {
       "id": 1,
-      "category": "electronics",
-      "name": "ipod",
-      "display_name": "electronics_69",
-      "description": "this is an ipod"
+      "name": "hardware",
+      "description": "these are some hard wares"
     },
     {
       "id": 2,
+      "name": "electronics",
+      "description": "so electrics"
+    }
+  ],
+  "products": [
+      {
+      "id": "69",
+      "category": "electronics",
+      "name": "ipod",
+      "display_name": "ipod_69",
+      "description": "this is an ipod"
+    },
+    {
+      "id": "xkcd",
       "category": "electronics",
       "name": "zune",
-      "display_name": "electronics_69",
+      "display_name": "zune_69",
       "description": "this is a a zune"
     }
   ]

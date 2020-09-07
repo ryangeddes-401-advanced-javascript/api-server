@@ -1,0 +1,22 @@
+{
+    "69": {
+     "id": 69,
+     "category": "electronics",
+     "name": "ipod",
+     "display_name": "electronics_69",
+     "description": "this is an ipod"},
+
+   "xkcd": {
+     "id": "xkcd",
+     "category": "electronics",
+     "name": "zune",
+     "display_name": "electronics_69",
+     "description": "this is a a zune"}
+}
+
+ {
+  "id": "420",
+  "category": "hardware",
+  "name": "hammer",
+  "display_name": "hammertime",
+  "description": "this is a a hammer"}
