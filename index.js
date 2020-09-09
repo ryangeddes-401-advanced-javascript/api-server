@@ -1,8 +1,13 @@
 'use strict';
 
 const server = require('./lib/server.js');
+const mongoose = require('mongoose');
+require('dotenv').config();
 const PORT = process.env.PORT;
-
-//It should call the .start() method from the server with the PORT set in your environment
+const MONGODB_URI = 'mongodb://localhost:27017/apiserver';
+mongoose.connect(MONGODB_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 server.start();
